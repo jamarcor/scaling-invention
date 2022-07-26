@@ -12,3 +12,13 @@ install home brew
 Install local dependencies to provision a virtual machine.
 
 `brew install virtualbox vagrant`
+
+## Usage
+
+To build the VM run: 
+
+`vagrant up`
+
+To destroy the VM run:
+
+`vagrant destroy -f`
