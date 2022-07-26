@@ -19,6 +19,10 @@ To build the VM run:
 
 `vagrant up`
 
+To rerun the provisioning scrit run:
+
+`vagrant up --provision`
+
 To destroy the VM run:
 
 `vagrant destroy -f`
